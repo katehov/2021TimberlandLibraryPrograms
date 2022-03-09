@@ -1,0 +1,2878 @@
+User Library,User Age,Number of Users
+Aberdeen,2,4
+Aberdeen,3,51
+Aberdeen,4,100
+Aberdeen,5,215
+Aberdeen,6,249
+Aberdeen,7,252
+Aberdeen,8,304
+Aberdeen,9,264
+Aberdeen,10,301
+Aberdeen,11,303
+Aberdeen,12,349
+Aberdeen,13,330
+Aberdeen,14,351
+Aberdeen,15,354
+Aberdeen,16,345
+Aberdeen,17,355
+Aberdeen,18,301
+Aberdeen,19,160
+Aberdeen,20,44
+Aberdeen,21,53
+Aberdeen,22,43
+Aberdeen,23,45
+Aberdeen,24,32
+Aberdeen,25,51
+Aberdeen,26,48
+Aberdeen,27,52
+Aberdeen,28,47
+Aberdeen,29,57
+Aberdeen,30,69
+Aberdeen,31,75
+Aberdeen,32,58
+Aberdeen,33,76
+Aberdeen,34,71
+Aberdeen,35,61
+Aberdeen,36,59
+Aberdeen,37,73
+Aberdeen,38,63
+Aberdeen,39,54
+Aberdeen,40,43
+Aberdeen,41,69
+Aberdeen,42,66
+Aberdeen,43,46
+Aberdeen,44,51
+Aberdeen,45,42
+Aberdeen,46,53
+Aberdeen,47,51
+Aberdeen,48,38
+Aberdeen,49,39
+Aberdeen,50,57
+Aberdeen,51,50
+Aberdeen,52,51
+Aberdeen,53,35
+Aberdeen,54,43
+Aberdeen,55,35
+Aberdeen,56,41
+Aberdeen,57,49
+Aberdeen,58,51
+Aberdeen,59,39
+Aberdeen,60,49
+Aberdeen,61,41
+Aberdeen,62,46
+Aberdeen,63,55
+Aberdeen,64,45
+Aberdeen,65,58
+Aberdeen,66,66
+Aberdeen,67,67
+Aberdeen,68,56
+Aberdeen,69,50
+Aberdeen,70,44
+Aberdeen,71,41
+Aberdeen,72,50
+Aberdeen,73,45
+Aberdeen,74,42
+Aberdeen,75,28
+Aberdeen,76,26
+Aberdeen,77,28
+Aberdeen,78,25
+Aberdeen,79,21
+Aberdeen,80,18
+Aberdeen,81,13
+Aberdeen,82,10
+Aberdeen,83,7
+Aberdeen,84,13
+Aberdeen,85,5
+Aberdeen,86,5
+Aberdeen,87,10
+Aberdeen,88,7
+Aberdeen,90,1
+Aberdeen,91,1
+Aberdeen,92,3
+Aberdeen,93,2
+Aberdeen,94,3
+Aberdeen,97,1
+Amanda Park,3,3
+Amanda Park,4,5
+Amanda Park,5,5
+Amanda Park,6,7
+Amanda Park,7,6
+Amanda Park,8,9
+Amanda Park,9,11
+Amanda Park,10,5
+Amanda Park,11,9
+Amanda Park,12,13
+Amanda Park,13,8
+Amanda Park,14,6
+Amanda Park,15,7
+Amanda Park,16,10
+Amanda Park,17,5
+Amanda Park,18,2
+Amanda Park,19,5
+Amanda Park,20,4
+Amanda Park,21,6
+Amanda Park,22,6
+Amanda Park,23,6
+Amanda Park,24,4
+Amanda Park,25,6
+Amanda Park,26,5
+Amanda Park,27,8
+Amanda Park,28,5
+Amanda Park,29,4
+Amanda Park,30,6
+Amanda Park,31,2
+Amanda Park,32,7
+Amanda Park,33,3
+Amanda Park,34,4
+Amanda Park,35,2
+Amanda Park,36,4
+Amanda Park,37,8
+Amanda Park,38,2
+Amanda Park,39,5
+Amanda Park,40,5
+Amanda Park,41,4
+Amanda Park,42,3
+Amanda Park,43,5
+Amanda Park,44,1
+Amanda Park,45,3
+Amanda Park,47,2
+Amanda Park,48,3
+Amanda Park,49,2
+Amanda Park,50,1
+Amanda Park,51,2
+Amanda Park,52,1
+Amanda Park,53,2
+Amanda Park,54,1
+Amanda Park,55,1
+Amanda Park,56,1
+Amanda Park,57,1
+Amanda Park,58,2
+Amanda Park,59,6
+Amanda Park,60,4
+Amanda Park,61,4
+Amanda Park,62,3
+Amanda Park,63,5
+Amanda Park,64,5
+Amanda Park,65,3
+Amanda Park,66,6
+Amanda Park,67,8
+Amanda Park,68,4
+Amanda Park,69,3
+Amanda Park,70,3
+Amanda Park,71,4
+Amanda Park,72,3
+Amanda Park,73,4
+Amanda Park,74,4
+Amanda Park,75,1
+Amanda Park,76,2
+Amanda Park,77,2
+Amanda Park,78,2
+Amanda Park,79,1
+Amanda Park,82,3
+Amanda Park,83,1
+Amanda Park,84,1
+Amanda Park,86,1
+Amanda Park,92,1
+Amanda Park,94,1
+Amanda Park,101,1
+Centralia,2,4
+Centralia,3,25
+Centralia,4,13
+Centralia,5,157
+Centralia,6,184
+Centralia,7,85
+Centralia,8,61
+Centralia,9,52
+Centralia,10,77
+Centralia,11,79
+Centralia,12,95
+Centralia,13,101
+Centralia,14,87
+Centralia,15,88
+Centralia,16,102
+Centralia,17,83
+Centralia,18,76
+Centralia,19,59
+Centralia,20,65
+Centralia,21,53
+Centralia,22,65
+Centralia,23,65
+Centralia,24,70
+Centralia,25,67
+Centralia,26,69
+Centralia,27,65
+Centralia,28,68
+Centralia,29,93
+Centralia,30,85
+Centralia,31,88
+Centralia,32,83
+Centralia,33,70
+Centralia,34,88
+Centralia,35,97
+Centralia,36,81
+Centralia,37,75
+Centralia,38,92
+Centralia,39,82
+Centralia,40,71
+Centralia,41,86
+Centralia,42,58
+Centralia,43,77
+Centralia,44,69
+Centralia,45,75
+Centralia,46,49
+Centralia,47,39
+Centralia,48,47
+Centralia,49,60
+Centralia,50,55
+Centralia,51,66
+Centralia,52,55
+Centralia,53,51
+Centralia,54,48
+Centralia,55,60
+Centralia,56,32
+Centralia,57,44
+Centralia,58,52
+Centralia,59,42
+Centralia,60,58
+Centralia,61,70
+Centralia,62,65
+Centralia,63,55
+Centralia,64,67
+Centralia,65,57
+Centralia,66,60
+Centralia,67,59
+Centralia,68,79
+Centralia,69,75
+Centralia,70,71
+Centralia,71,71
+Centralia,72,55
+Centralia,73,49
+Centralia,74,54
+Centralia,75,46
+Centralia,76,37
+Centralia,77,29
+Centralia,78,26
+Centralia,79,28
+Centralia,80,20
+Centralia,81,25
+Centralia,82,22
+Centralia,83,13
+Centralia,84,13
+Centralia,85,10
+Centralia,86,11
+Centralia,87,8
+Centralia,88,9
+Centralia,89,6
+Centralia,90,2
+Centralia,91,1
+Centralia,92,3
+Centralia,93,3
+Centralia,94,1
+Centralia,95,1
+Centralia,97,1
+Centralia,98,1
+Chehalis,2,8
+Chehalis,3,25
+Chehalis,4,26
+Chehalis,5,144
+Chehalis,6,160
+Chehalis,7,85
+Chehalis,8,80
+Chehalis,9,91
+Chehalis,10,72
+Chehalis,11,85
+Chehalis,12,103
+Chehalis,13,119
+Chehalis,14,105
+Chehalis,15,107
+Chehalis,16,114
+Chehalis,17,119
+Chehalis,18,100
+Chehalis,19,60
+Chehalis,20,64
+Chehalis,21,48
+Chehalis,22,45
+Chehalis,23,58
+Chehalis,24,35
+Chehalis,25,52
+Chehalis,26,47
+Chehalis,27,43
+Chehalis,28,47
+Chehalis,29,57
+Chehalis,30,67
+Chehalis,31,57
+Chehalis,32,53
+Chehalis,33,53
+Chehalis,34,71
+Chehalis,35,60
+Chehalis,36,74
+Chehalis,37,69
+Chehalis,38,70
+Chehalis,39,71
+Chehalis,40,84
+Chehalis,41,75
+Chehalis,42,66
+Chehalis,43,50
+Chehalis,44,62
+Chehalis,45,49
+Chehalis,46,37
+Chehalis,47,40
+Chehalis,48,40
+Chehalis,49,45
+Chehalis,50,48
+Chehalis,51,48
+Chehalis,52,44
+Chehalis,53,47
+Chehalis,54,47
+Chehalis,55,40
+Chehalis,56,43
+Chehalis,57,61
+Chehalis,58,54
+Chehalis,59,51
+Chehalis,60,47
+Chehalis,61,55
+Chehalis,62,55
+Chehalis,63,48
+Chehalis,64,55
+Chehalis,65,64
+Chehalis,66,61
+Chehalis,67,76
+Chehalis,68,65
+Chehalis,69,50
+Chehalis,70,50
+Chehalis,71,79
+Chehalis,72,49
+Chehalis,73,48
+Chehalis,74,52
+Chehalis,75,35
+Chehalis,76,38
+Chehalis,77,25
+Chehalis,78,29
+Chehalis,79,33
+Chehalis,80,15
+Chehalis,81,20
+Chehalis,82,16
+Chehalis,83,17
+Chehalis,84,12
+Chehalis,85,1
+Chehalis,86,7
+Chehalis,87,7
+Chehalis,88,2
+Chehalis,89,5
+Chehalis,90,1
+Chehalis,91,4
+Chehalis,93,2
+Chehalis,94,4
+Chehalis,95,2
+Chehalis,96,1
+Chehalis,97,1
+Elma,2,3
+Elma,3,2
+Elma,4,10
+Elma,5,106
+Elma,6,148
+Elma,7,131
+Elma,8,110
+Elma,9,148
+Elma,10,164
+Elma,11,144
+Elma,12,119
+Elma,13,115
+Elma,14,68
+Elma,15,27
+Elma,16,22
+Elma,17,21
+Elma,18,21
+Elma,19,26
+Elma,20,12
+Elma,21,13
+Elma,22,20
+Elma,23,16
+Elma,24,18
+Elma,25,20
+Elma,26,21
+Elma,27,18
+Elma,28,20
+Elma,29,25
+Elma,30,17
+Elma,31,31
+Elma,32,27
+Elma,33,18
+Elma,34,23
+Elma,35,22
+Elma,36,24
+Elma,37,20
+Elma,38,17
+Elma,39,30
+Elma,40,14
+Elma,41,16
+Elma,42,19
+Elma,43,21
+Elma,44,23
+Elma,45,22
+Elma,46,15
+Elma,47,9
+Elma,48,20
+Elma,49,13
+Elma,50,16
+Elma,51,19
+Elma,52,24
+Elma,53,14
+Elma,54,17
+Elma,55,10
+Elma,56,21
+Elma,57,18
+Elma,58,15
+Elma,59,26
+Elma,60,16
+Elma,61,22
+Elma,62,16
+Elma,63,17
+Elma,64,14
+Elma,65,26
+Elma,66,23
+Elma,67,20
+Elma,68,13
+Elma,69,19
+Elma,70,11
+Elma,71,18
+Elma,72,19
+Elma,73,14
+Elma,74,12
+Elma,75,14
+Elma,76,6
+Elma,77,14
+Elma,78,9
+Elma,79,8
+Elma,80,9
+Elma,81,7
+Elma,82,2
+Elma,83,3
+Elma,84,4
+Elma,85,2
+Elma,86,3
+Elma,87,1
+Elma,88,2
+Elma,89,2
+Elma,90,4
+Elma,91,3
+Elma,92,2
+Elma,95,1
+Hoquiam,2,1
+Hoquiam,3,2
+Hoquiam,4,7
+Hoquiam,5,15
+Hoquiam,6,13
+Hoquiam,7,10
+Hoquiam,8,12
+Hoquiam,9,11
+Hoquiam,10,20
+Hoquiam,11,25
+Hoquiam,12,23
+Hoquiam,13,28
+Hoquiam,14,28
+Hoquiam,15,29
+Hoquiam,16,30
+Hoquiam,17,26
+Hoquiam,18,19
+Hoquiam,19,26
+Hoquiam,20,24
+Hoquiam,21,12
+Hoquiam,22,13
+Hoquiam,23,16
+Hoquiam,24,24
+Hoquiam,25,22
+Hoquiam,26,12
+Hoquiam,27,23
+Hoquiam,28,20
+Hoquiam,29,33
+Hoquiam,30,15
+Hoquiam,31,39
+Hoquiam,32,32
+Hoquiam,33,33
+Hoquiam,34,22
+Hoquiam,35,35
+Hoquiam,36,25
+Hoquiam,37,28
+Hoquiam,38,22
+Hoquiam,39,25
+Hoquiam,40,26
+Hoquiam,41,23
+Hoquiam,42,21
+Hoquiam,43,20
+Hoquiam,44,27
+Hoquiam,45,20
+Hoquiam,46,21
+Hoquiam,47,16
+Hoquiam,48,17
+Hoquiam,49,23
+Hoquiam,50,19
+Hoquiam,51,24
+Hoquiam,52,20
+Hoquiam,53,15
+Hoquiam,54,19
+Hoquiam,55,18
+Hoquiam,56,13
+Hoquiam,57,19
+Hoquiam,58,21
+Hoquiam,59,22
+Hoquiam,60,20
+Hoquiam,61,22
+Hoquiam,62,21
+Hoquiam,63,25
+Hoquiam,64,19
+Hoquiam,65,21
+Hoquiam,66,20
+Hoquiam,67,19
+Hoquiam,68,36
+Hoquiam,69,26
+Hoquiam,70,32
+Hoquiam,71,19
+Hoquiam,72,28
+Hoquiam,73,20
+Hoquiam,74,25
+Hoquiam,75,13
+Hoquiam,76,13
+Hoquiam,77,10
+Hoquiam,78,17
+Hoquiam,79,18
+Hoquiam,80,18
+Hoquiam,81,3
+Hoquiam,82,7
+Hoquiam,83,3
+Hoquiam,84,11
+Hoquiam,85,9
+Hoquiam,86,3
+Hoquiam,87,3
+Hoquiam,88,2
+Hoquiam,89,2
+Hoquiam,90,3
+Hoquiam,91,3
+Hoquiam,92,1
+Hoquiam,94,1
+Hoquiam,95,1
+Hoquiam,96,1
+Hoodsport,2,2
+Hoodsport,3,1
+Hoodsport,5,5
+Hoodsport,6,2
+Hoodsport,7,1
+Hoodsport,9,1
+Hoodsport,10,1
+Hoodsport,11,4
+Hoodsport,13,2
+Hoodsport,14,1
+Hoodsport,15,4
+Hoodsport,16,2
+Hoodsport,17,3
+Hoodsport,19,4
+Hoodsport,20,1
+Hoodsport,21,2
+Hoodsport,22,4
+Hoodsport,23,6
+Hoodsport,24,7
+Hoodsport,25,10
+Hoodsport,26,1
+Hoodsport,27,9
+Hoodsport,28,4
+Hoodsport,29,7
+Hoodsport,30,6
+Hoodsport,31,6
+Hoodsport,32,7
+Hoodsport,33,6
+Hoodsport,34,7
+Hoodsport,35,8
+Hoodsport,36,10
+Hoodsport,37,4
+Hoodsport,38,10
+Hoodsport,39,12
+Hoodsport,40,16
+Hoodsport,41,11
+Hoodsport,42,9
+Hoodsport,43,8
+Hoodsport,44,8
+Hoodsport,45,13
+Hoodsport,46,9
+Hoodsport,47,2
+Hoodsport,48,6
+Hoodsport,49,6
+Hoodsport,50,7
+Hoodsport,51,9
+Hoodsport,52,5
+Hoodsport,53,11
+Hoodsport,54,4
+Hoodsport,55,8
+Hoodsport,56,9
+Hoodsport,57,7
+Hoodsport,58,13
+Hoodsport,59,9
+Hoodsport,60,15
+Hoodsport,61,10
+Hoodsport,62,18
+Hoodsport,63,13
+Hoodsport,64,13
+Hoodsport,65,25
+Hoodsport,66,22
+Hoodsport,67,26
+Hoodsport,68,22
+Hoodsport,69,17
+Hoodsport,70,20
+Hoodsport,71,12
+Hoodsport,72,18
+Hoodsport,73,7
+Hoodsport,74,23
+Hoodsport,75,25
+Hoodsport,76,11
+Hoodsport,77,18
+Hoodsport,78,8
+Hoodsport,79,3
+Hoodsport,80,5
+Hoodsport,81,7
+Hoodsport,82,7
+Hoodsport,83,8
+Hoodsport,84,6
+Hoodsport,85,1
+Hoodsport,86,3
+Hoodsport,87,3
+Hoodsport,88,1
+Hoodsport,89,1
+Hoodsport,92,2
+Hoodsport,94,1
+Hoodsport,97,1
+Ilwaco,3,4
+Ilwaco,4,3
+Ilwaco,5,3
+Ilwaco,6,4
+Ilwaco,7,1
+Ilwaco,8,7
+Ilwaco,9,2
+Ilwaco,10,8
+Ilwaco,11,4
+Ilwaco,12,10
+Ilwaco,13,8
+Ilwaco,14,9
+Ilwaco,15,8
+Ilwaco,16,5
+Ilwaco,17,11
+Ilwaco,18,5
+Ilwaco,19,9
+Ilwaco,20,3
+Ilwaco,21,4
+Ilwaco,22,8
+Ilwaco,23,2
+Ilwaco,24,5
+Ilwaco,25,5
+Ilwaco,26,12
+Ilwaco,27,5
+Ilwaco,28,14
+Ilwaco,29,16
+Ilwaco,30,8
+Ilwaco,31,10
+Ilwaco,32,11
+Ilwaco,33,12
+Ilwaco,34,10
+Ilwaco,35,11
+Ilwaco,36,14
+Ilwaco,37,16
+Ilwaco,38,18
+Ilwaco,39,14
+Ilwaco,40,11
+Ilwaco,41,5
+Ilwaco,42,9
+Ilwaco,43,11
+Ilwaco,44,6
+Ilwaco,45,13
+Ilwaco,46,11
+Ilwaco,47,8
+Ilwaco,48,13
+Ilwaco,49,16
+Ilwaco,50,16
+Ilwaco,51,15
+Ilwaco,52,17
+Ilwaco,53,11
+Ilwaco,54,13
+Ilwaco,55,7
+Ilwaco,56,17
+Ilwaco,57,17
+Ilwaco,58,21
+Ilwaco,59,19
+Ilwaco,60,14
+Ilwaco,61,16
+Ilwaco,62,19
+Ilwaco,63,25
+Ilwaco,64,25
+Ilwaco,65,21
+Ilwaco,66,29
+Ilwaco,67,38
+Ilwaco,68,34
+Ilwaco,69,28
+Ilwaco,70,40
+Ilwaco,71,24
+Ilwaco,72,33
+Ilwaco,73,20
+Ilwaco,74,32
+Ilwaco,75,31
+Ilwaco,76,21
+Ilwaco,77,19
+Ilwaco,78,21
+Ilwaco,79,16
+Ilwaco,80,9
+Ilwaco,81,7
+Ilwaco,82,7
+Ilwaco,83,2
+Ilwaco,84,5
+Ilwaco,85,6
+Ilwaco,86,5
+Ilwaco,87,2
+Ilwaco,88,3
+Ilwaco,89,1
+Ilwaco,90,2
+Ilwaco,91,1
+Ilwaco,92,2
+Ilwaco,95,1
+Lacey,2,48
+Lacey,3,128
+Lacey,4,193
+Lacey,5,741
+Lacey,6,685
+Lacey,7,361
+Lacey,8,336
+Lacey,9,433
+Lacey,10,533
+Lacey,11,492
+Lacey,12,428
+Lacey,13,474
+Lacey,14,450
+Lacey,15,350
+Lacey,16,367
+Lacey,17,334
+Lacey,18,251
+Lacey,19,209
+Lacey,20,173
+Lacey,21,206
+Lacey,22,195
+Lacey,23,196
+Lacey,24,189
+Lacey,25,212
+Lacey,26,238
+Lacey,27,263
+Lacey,28,266
+Lacey,29,296
+Lacey,30,311
+Lacey,31,320
+Lacey,32,325
+Lacey,33,331
+Lacey,34,352
+Lacey,35,411
+Lacey,36,381
+Lacey,37,348
+Lacey,38,373
+Lacey,39,355
+Lacey,40,388
+Lacey,41,355
+Lacey,42,324
+Lacey,43,267
+Lacey,44,296
+Lacey,45,282
+Lacey,46,232
+Lacey,47,244
+Lacey,48,208
+Lacey,49,228
+Lacey,50,223
+Lacey,51,222
+Lacey,52,238
+Lacey,53,207
+Lacey,54,207
+Lacey,55,179
+Lacey,56,177
+Lacey,57,205
+Lacey,58,203
+Lacey,59,193
+Lacey,60,189
+Lacey,61,226
+Lacey,62,240
+Lacey,63,253
+Lacey,64,263
+Lacey,65,265
+Lacey,66,250
+Lacey,67,295
+Lacey,68,313
+Lacey,69,321
+Lacey,70,285
+Lacey,71,259
+Lacey,72,263
+Lacey,73,277
+Lacey,74,238
+Lacey,75,255
+Lacey,76,172
+Lacey,77,183
+Lacey,78,167
+Lacey,79,148
+Lacey,80,109
+Lacey,81,100
+Lacey,82,86
+Lacey,83,74
+Lacey,84,63
+Lacey,85,40
+Lacey,86,43
+Lacey,87,33
+Lacey,88,28
+Lacey,89,28
+Lacey,90,24
+Lacey,91,10
+Lacey,92,12
+Lacey,93,7
+Lacey,94,11
+Lacey,95,4
+Lacey,96,4
+Lacey,97,3
+Lacey,99,1
+Lacey,100,2
+Lacey,103,3
+Lacey,115,1
+Maintenance,17,1
+Maintenance,33,1
+Maintenance,35,1
+Maintenance,37,1
+Maintenance,40,1
+Maintenance,45,1
+Maintenance,46,1
+Maintenance,52,1
+Maintenance,62,1
+McCleary,3,8
+McCleary,4,20
+McCleary,5,21
+McCleary,6,15
+McCleary,7,14
+McCleary,8,15
+McCleary,9,15
+McCleary,10,18
+McCleary,11,23
+McCleary,12,10
+McCleary,13,19
+McCleary,14,10
+McCleary,15,12
+McCleary,16,8
+McCleary,17,7
+McCleary,18,10
+McCleary,19,6
+McCleary,20,4
+McCleary,21,5
+McCleary,22,10
+McCleary,23,6
+McCleary,24,8
+McCleary,25,6
+McCleary,26,15
+McCleary,27,12
+McCleary,28,10
+McCleary,29,12
+McCleary,30,11
+McCleary,31,9
+McCleary,32,16
+McCleary,33,9
+McCleary,34,8
+McCleary,35,8
+McCleary,36,18
+McCleary,37,19
+McCleary,38,8
+McCleary,39,13
+McCleary,40,11
+McCleary,41,9
+McCleary,42,7
+McCleary,43,15
+McCleary,44,11
+McCleary,45,8
+McCleary,46,4
+McCleary,47,9
+McCleary,48,6
+McCleary,49,10
+McCleary,50,4
+McCleary,51,5
+McCleary,52,12
+McCleary,53,8
+McCleary,54,8
+McCleary,55,7
+McCleary,56,7
+McCleary,57,7
+McCleary,58,7
+McCleary,59,13
+McCleary,60,7
+McCleary,61,12
+McCleary,62,7
+McCleary,63,14
+McCleary,64,12
+McCleary,65,13
+McCleary,66,7
+McCleary,67,10
+McCleary,68,10
+McCleary,69,8
+McCleary,70,10
+McCleary,71,7
+McCleary,72,7
+McCleary,73,6
+McCleary,74,2
+McCleary,75,9
+McCleary,76,5
+McCleary,77,2
+McCleary,78,2
+McCleary,79,5
+McCleary,80,2
+McCleary,81,5
+McCleary,82,7
+McCleary,83,1
+McCleary,84,2
+McCleary,85,2
+McCleary,86,2
+McCleary,87,3
+McCleary,88,1
+McCleary,89,1
+McCleary,93,1
+McCleary,96,1
+Montesano,2,1
+Montesano,3,1
+Montesano,4,4
+Montesano,5,9
+Montesano,6,8
+Montesano,7,15
+Montesano,8,11
+Montesano,9,12
+Montesano,10,31
+Montesano,11,24
+Montesano,12,21
+Montesano,13,21
+Montesano,14,21
+Montesano,15,19
+Montesano,16,23
+Montesano,17,16
+Montesano,18,11
+Montesano,19,8
+Montesano,20,7
+Montesano,21,10
+Montesano,22,17
+Montesano,23,12
+Montesano,24,7
+Montesano,25,7
+Montesano,26,13
+Montesano,27,16
+Montesano,28,16
+Montesano,29,18
+Montesano,30,15
+Montesano,31,21
+Montesano,32,17
+Montesano,33,14
+Montesano,34,30
+Montesano,35,22
+Montesano,36,17
+Montesano,37,16
+Montesano,38,24
+Montesano,39,15
+Montesano,40,24
+Montesano,41,23
+Montesano,42,24
+Montesano,43,21
+Montesano,44,12
+Montesano,45,17
+Montesano,46,11
+Montesano,47,9
+Montesano,48,11
+Montesano,49,10
+Montesano,50,19
+Montesano,51,17
+Montesano,52,17
+Montesano,53,11
+Montesano,54,17
+Montesano,55,12
+Montesano,56,14
+Montesano,57,13
+Montesano,58,17
+Montesano,59,20
+Montesano,60,17
+Montesano,61,18
+Montesano,62,21
+Montesano,63,21
+Montesano,64,24
+Montesano,65,27
+Montesano,66,23
+Montesano,67,26
+Montesano,68,30
+Montesano,69,29
+Montesano,70,28
+Montesano,71,21
+Montesano,72,15
+Montesano,73,29
+Montesano,74,30
+Montesano,75,21
+Montesano,76,19
+Montesano,77,12
+Montesano,78,11
+Montesano,79,6
+Montesano,80,7
+Montesano,81,5
+Montesano,82,3
+Montesano,83,4
+Montesano,84,6
+Montesano,85,2
+Montesano,87,3
+Montesano,88,4
+Montesano,89,3
+Montesano,90,1
+Montesano,91,2
+Montesano,93,1
+Montesano,94,2
+Morton Kiosk - Centralia College,4,2
+Morton Kiosk - Centralia College,11,1
+Morton Kiosk - Centralia College,12,1
+Morton Kiosk - Centralia College,14,1
+Morton Kiosk - Centralia College,15,1
+Morton Kiosk - Centralia College,17,1
+Morton Kiosk - Centralia College,20,4
+Morton Kiosk - Centralia College,21,5
+Morton Kiosk - Centralia College,22,3
+Morton Kiosk - Centralia College,23,3
+Morton Kiosk - Centralia College,24,2
+Morton Kiosk - Centralia College,25,2
+Morton Kiosk - Centralia College,26,3
+Morton Kiosk - Centralia College,27,1
+Morton Kiosk - Centralia College,29,1
+Morton Kiosk - Centralia College,30,3
+Morton Kiosk - Centralia College,31,1
+Morton Kiosk - Centralia College,32,3
+Morton Kiosk - Centralia College,34,1
+Morton Kiosk - Centralia College,35,2
+Morton Kiosk - Centralia College,36,1
+Morton Kiosk - Centralia College,39,1
+Morton Kiosk - Centralia College,40,1
+Morton Kiosk - Centralia College,41,2
+Morton Kiosk - Centralia College,42,1
+Morton Kiosk - Centralia College,43,3
+Morton Kiosk - Centralia College,45,1
+Morton Kiosk - Centralia College,46,3
+Morton Kiosk - Centralia College,47,1
+Morton Kiosk - Centralia College,48,1
+Morton Kiosk - Centralia College,49,1
+Morton Kiosk - Centralia College,50,3
+Morton Kiosk - Centralia College,51,1
+Morton Kiosk - Centralia College,53,1
+Morton Kiosk - Centralia College,54,2
+Morton Kiosk - Centralia College,55,1
+Morton Kiosk - Centralia College,57,1
+Morton Kiosk - Centralia College,58,3
+Morton Kiosk - Centralia College,63,3
+Morton Kiosk - Centralia College,65,1
+Morton Kiosk - Centralia College,66,2
+Morton Kiosk - Centralia College,67,2
+Morton Kiosk - Centralia College,68,1
+Morton Kiosk - Centralia College,69,2
+Morton Kiosk - Centralia College,70,1
+Morton Kiosk - Centralia College,71,1
+Morton Kiosk - Centralia College,72,3
+Morton Kiosk - Centralia College,74,4
+Morton Kiosk - Centralia College,75,2
+Morton Kiosk - Centralia College,76,1
+Morton Kiosk - Centralia College,80,1
+Morton Kiosk - Centralia College,97,1
+TRL Mobile Services,120,1
+Mountain View (Randle),3,15
+Mountain View (Randle),4,28
+Mountain View (Randle),5,30
+Mountain View (Randle),6,21
+Mountain View (Randle),7,21
+Mountain View (Randle),8,20
+Mountain View (Randle),9,18
+Mountain View (Randle),10,21
+Mountain View (Randle),11,23
+Mountain View (Randle),12,32
+Mountain View (Randle),13,22
+Mountain View (Randle),14,36
+Mountain View (Randle),15,34
+Mountain View (Randle),16,27
+Mountain View (Randle),17,38
+Mountain View (Randle),18,23
+Mountain View (Randle),19,5
+Mountain View (Randle),20,5
+Mountain View (Randle),21,8
+Mountain View (Randle),22,9
+Mountain View (Randle),23,2
+Mountain View (Randle),24,9
+Mountain View (Randle),25,2
+Mountain View (Randle),26,4
+Mountain View (Randle),27,2
+Mountain View (Randle),28,4
+Mountain View (Randle),29,6
+Mountain View (Randle),30,9
+Mountain View (Randle),31,7
+Mountain View (Randle),32,9
+Mountain View (Randle),33,4
+Mountain View (Randle),34,7
+Mountain View (Randle),35,8
+Mountain View (Randle),36,10
+Mountain View (Randle),37,5
+Mountain View (Randle),38,8
+Mountain View (Randle),39,9
+Mountain View (Randle),40,7
+Mountain View (Randle),41,5
+Mountain View (Randle),42,5
+Mountain View (Randle),43,6
+Mountain View (Randle),44,6
+Mountain View (Randle),45,4
+Mountain View (Randle),46,4
+Mountain View (Randle),47,7
+Mountain View (Randle),48,4
+Mountain View (Randle),49,3
+Mountain View (Randle),50,8
+Mountain View (Randle),51,7
+Mountain View (Randle),52,8
+Mountain View (Randle),53,6
+Mountain View (Randle),54,7
+Mountain View (Randle),55,11
+Mountain View (Randle),56,7
+Mountain View (Randle),57,9
+Mountain View (Randle),58,7
+Mountain View (Randle),59,8
+Mountain View (Randle),60,9
+Mountain View (Randle),61,9
+Mountain View (Randle),62,10
+Mountain View (Randle),63,8
+Mountain View (Randle),64,7
+Mountain View (Randle),65,14
+Mountain View (Randle),66,10
+Mountain View (Randle),67,13
+Mountain View (Randle),68,12
+Mountain View (Randle),69,8
+Mountain View (Randle),70,17
+Mountain View (Randle),71,11
+Mountain View (Randle),72,11
+Mountain View (Randle),73,5
+Mountain View (Randle),74,12
+Mountain View (Randle),75,9
+Mountain View (Randle),76,2
+Mountain View (Randle),77,6
+Mountain View (Randle),78,4
+Mountain View (Randle),79,6
+Mountain View (Randle),80,2
+Mountain View (Randle),81,3
+Mountain View (Randle),82,4
+Mountain View (Randle),83,2
+Mountain View (Randle),84,1
+Mountain View (Randle),85,1
+Mountain View (Randle),86,2
+Mountain View (Randle),87,1
+Mountain View (Randle),88,1
+Mountain View (Randle),89,1
+Mountain View (Randle),90,1
+Naselle,3,2
+Naselle,5,16
+Naselle,6,7
+Naselle,7,13
+Naselle,8,11
+Naselle,9,20
+Naselle,10,18
+Naselle,11,10
+Naselle,12,10
+Naselle,13,14
+Naselle,14,24
+Naselle,15,23
+Naselle,16,28
+Naselle,17,35
+Naselle,18,58
+Naselle,19,17
+Naselle,20,7
+Naselle,21,5
+Naselle,23,1
+Naselle,24,5
+Naselle,25,3
+Naselle,26,6
+Naselle,27,5
+Naselle,28,1
+Naselle,29,7
+Naselle,30,4
+Naselle,31,5
+Naselle,32,5
+Naselle,33,7
+Naselle,34,6
+Naselle,35,4
+Naselle,36,7
+Naselle,37,8
+Naselle,38,8
+Naselle,39,13
+Naselle,40,5
+Naselle,41,4
+Naselle,42,1
+Naselle,43,4
+Naselle,44,6
+Naselle,45,7
+Naselle,46,2
+Naselle,47,6
+Naselle,48,1
+Naselle,49,4
+Naselle,50,2
+Naselle,51,6
+Naselle,52,4
+Naselle,53,3
+Naselle,54,8
+Naselle,55,4
+Naselle,56,5
+Naselle,57,13
+Naselle,58,8
+Naselle,59,5
+Naselle,60,1
+Naselle,61,4
+Naselle,62,2
+Naselle,63,8
+Naselle,64,4
+Naselle,65,6
+Naselle,66,6
+Naselle,67,10
+Naselle,68,10
+Naselle,69,14
+Naselle,70,9
+Naselle,71,12
+Naselle,72,8
+Naselle,73,11
+Naselle,74,5
+Naselle,75,4
+Naselle,76,4
+Naselle,77,4
+Naselle,78,3
+Naselle,79,7
+Naselle,80,4
+Naselle,81,7
+Naselle,82,2
+Naselle,84,1
+Naselle,86,1
+Naselle,88,1
+Naselle,89,1
+Naselle,92,1
+Naselle,93,1
+North Mason (Belfair),2,3
+North Mason (Belfair),3,18
+North Mason (Belfair),4,45
+North Mason (Belfair),5,140
+North Mason (Belfair),6,111
+North Mason (Belfair),7,49
+North Mason (Belfair),8,44
+North Mason (Belfair),9,77
+North Mason (Belfair),10,72
+North Mason (Belfair),11,69
+North Mason (Belfair),12,59
+North Mason (Belfair),13,82
+North Mason (Belfair),14,99
+North Mason (Belfair),15,67
+North Mason (Belfair),16,46
+North Mason (Belfair),17,57
+North Mason (Belfair),18,48
+North Mason (Belfair),19,18
+North Mason (Belfair),20,28
+North Mason (Belfair),21,21
+North Mason (Belfair),22,23
+North Mason (Belfair),23,30
+North Mason (Belfair),24,24
+North Mason (Belfair),25,30
+North Mason (Belfair),26,29
+North Mason (Belfair),27,27
+North Mason (Belfair),28,34
+North Mason (Belfair),29,31
+North Mason (Belfair),30,47
+North Mason (Belfair),31,48
+North Mason (Belfair),32,51
+North Mason (Belfair),33,40
+North Mason (Belfair),34,62
+North Mason (Belfair),35,49
+North Mason (Belfair),36,40
+North Mason (Belfair),37,41
+North Mason (Belfair),38,47
+North Mason (Belfair),39,46
+North Mason (Belfair),40,40
+North Mason (Belfair),41,55
+North Mason (Belfair),42,39
+North Mason (Belfair),43,42
+North Mason (Belfair),44,37
+North Mason (Belfair),45,29
+North Mason (Belfair),46,31
+North Mason (Belfair),47,20
+North Mason (Belfair),48,24
+North Mason (Belfair),49,33
+North Mason (Belfair),50,39
+North Mason (Belfair),51,30
+North Mason (Belfair),52,31
+North Mason (Belfair),53,25
+North Mason (Belfair),54,36
+North Mason (Belfair),55,27
+North Mason (Belfair),56,40
+North Mason (Belfair),57,32
+North Mason (Belfair),58,39
+North Mason (Belfair),59,48
+North Mason (Belfair),60,56
+North Mason (Belfair),61,64
+North Mason (Belfair),62,57
+North Mason (Belfair),63,69
+North Mason (Belfair),64,46
+North Mason (Belfair),65,49
+North Mason (Belfair),66,65
+North Mason (Belfair),67,63
+North Mason (Belfair),68,64
+North Mason (Belfair),69,76
+North Mason (Belfair),70,64
+North Mason (Belfair),71,64
+North Mason (Belfair),72,59
+North Mason (Belfair),73,67
+North Mason (Belfair),74,75
+North Mason (Belfair),75,57
+North Mason (Belfair),76,52
+North Mason (Belfair),77,21
+North Mason (Belfair),78,43
+North Mason (Belfair),79,20
+North Mason (Belfair),80,24
+North Mason (Belfair),81,16
+North Mason (Belfair),82,20
+North Mason (Belfair),83,21
+North Mason (Belfair),84,11
+North Mason (Belfair),85,11
+North Mason (Belfair),86,5
+North Mason (Belfair),87,7
+North Mason (Belfair),88,6
+North Mason (Belfair),89,3
+North Mason (Belfair),90,3
+North Mason (Belfair),91,4
+North Mason (Belfair),92,1
+North Mason (Belfair),93,1
+North Mason (Belfair),94,3
+North Mason (Belfair),95,2
+North Mason (Belfair),96,2
+North Mason (Belfair),98,1
+North Mason (Belfair),100,1
+North River School,10,1
+North River School,11,1
+North River School,12,1
+North River School,13,1
+North River School,15,4
+North River School,17,2
+North River School,18,2
+North River School,19,3
+North River School,20,4
+North River School,21,5
+North River School,22,3
+North River School,23,7
+North River School,24,2
+North River School,25,4
+North River School,26,6
+North River School,27,2
+North River School,28,2
+North River School,29,4
+North River School,30,1
+North River School,31,5
+North River School,32,3
+North River School,33,3
+North River School,34,1
+North River School,36,5
+North River School,38,1
+North River School,39,1
+North River School,40,1
+North River School,41,1
+North River School,42,2
+North River School,43,1
+North River School,45,1
+North River School,46,2
+North River School,47,2
+North River School,48,1
+North River School,49,2
+North River School,51,1
+North River School,52,1
+North River School,53,1
+North River School,57,2
+North River School,58,1
+North River School,59,1
+North River School,60,2
+North River School,61,1
+North River School,62,2
+North River School,64,1
+North River School,65,1
+North River School,66,2
+North River School,67,2
+North River School,68,1
+North River School,69,1
+North River School,71,3
+North River School,72,1
+North River School,74,1
+North River School,76,2
+North River School,77,1
+North River School,81,1
+Oakville,2,3
+Oakville,3,25
+Oakville,4,37
+Oakville,5,103
+Oakville,6,84
+Oakville,7,35
+Oakville,8,37
+Oakville,9,44
+Oakville,10,36
+Oakville,11,34
+Oakville,12,24
+Oakville,13,41
+Oakville,14,33
+Oakville,15,42
+Oakville,16,45
+Oakville,17,23
+Oakville,18,14
+Oakville,19,5
+Oakville,20,9
+Oakville,21,10
+Oakville,22,2
+Oakville,23,5
+Oakville,24,5
+Oakville,25,3
+Oakville,26,3
+Oakville,27,3
+Oakville,28,2
+Oakville,29,5
+Oakville,30,7
+Oakville,31,7
+Oakville,32,4
+Oakville,33,7
+Oakville,34,8
+Oakville,35,7
+Oakville,36,4
+Oakville,37,7
+Oakville,38,8
+Oakville,39,6
+Oakville,40,5
+Oakville,41,1
+Oakville,42,4
+Oakville,43,2
+Oakville,44,8
+Oakville,45,4
+Oakville,46,5
+Oakville,47,6
+Oakville,48,4
+Oakville,49,2
+Oakville,50,2
+Oakville,51,4
+Oakville,52,6
+Oakville,53,5
+Oakville,54,1
+Oakville,55,10
+Oakville,56,5
+Oakville,57,6
+Oakville,58,8
+Oakville,59,4
+Oakville,60,2
+Oakville,61,2
+Oakville,62,4
+Oakville,63,3
+Oakville,64,6
+Oakville,65,7
+Oakville,66,6
+Oakville,67,7
+Oakville,68,3
+Oakville,69,3
+Oakville,70,9
+Oakville,71,6
+Oakville,72,6
+Oakville,73,1
+Oakville,74,3
+Oakville,75,2
+Oakville,76,2
+Oakville,77,4
+Oakville,78,2
+Oakville,79,1
+Oakville,80,2
+Oakville,81,3
+Oakville,82,5
+Oakville,83,2
+Oakville,84,3
+Oakville,93,1
+Olympia,2,57
+Olympia,3,75
+Olympia,4,133
+Olympia,5,423
+Olympia,6,458
+Olympia,7,218
+Olympia,8,212
+Olympia,9,275
+Olympia,10,283
+Olympia,11,411
+Olympia,12,551
+Olympia,13,463
+Olympia,14,597
+Olympia,15,533
+Olympia,16,372
+Olympia,17,277
+Olympia,18,240
+Olympia,19,154
+Olympia,20,138
+Olympia,21,127
+Olympia,22,184
+Olympia,23,193
+Olympia,24,176
+Olympia,25,207
+Olympia,26,214
+Olympia,27,254
+Olympia,28,228
+Olympia,29,257
+Olympia,30,292
+Olympia,31,322
+Olympia,32,300
+Olympia,33,318
+Olympia,34,283
+Olympia,35,280
+Olympia,36,302
+Olympia,37,304
+Olympia,38,317
+Olympia,39,316
+Olympia,40,302
+Olympia,41,296
+Olympia,42,280
+Olympia,43,265
+Olympia,44,293
+Olympia,45,259
+Olympia,46,241
+Olympia,47,232
+Olympia,48,226
+Olympia,49,217
+Olympia,50,194
+Olympia,51,231
+Olympia,52,257
+Olympia,53,208
+Olympia,54,169
+Olympia,55,193
+Olympia,56,184
+Olympia,57,175
+Olympia,58,180
+Olympia,59,196
+Olympia,60,197
+Olympia,61,230
+Olympia,62,203
+Olympia,63,217
+Olympia,64,250
+Olympia,65,248
+Olympia,66,270
+Olympia,67,287
+Olympia,68,301
+Olympia,69,286
+Olympia,70,234
+Olympia,71,228
+Olympia,72,257
+Olympia,73,200
+Olympia,74,208
+Olympia,75,191
+Olympia,76,135
+Olympia,77,121
+Olympia,78,127
+Olympia,79,105
+Olympia,80,72
+Olympia,81,70
+Olympia,82,41
+Olympia,83,39
+Olympia,84,37
+Olympia,85,28
+Olympia,86,25
+Olympia,87,19
+Olympia,88,15
+Olympia,89,11
+Olympia,90,14
+Olympia,91,9
+Olympia,92,4
+Olympia,93,5
+Olympia,94,4
+Olympia,95,3
+Olympia,96,1
+Olympia,97,1
+Olympia,102,1
+Olympia,120,1
+Ocean Park,2,1
+Ocean Park,4,3
+Ocean Park,5,4
+Ocean Park,6,1
+Ocean Park,7,2
+Ocean Park,8,6
+Ocean Park,9,7
+Ocean Park,10,12
+Ocean Park,11,6
+Ocean Park,12,15
+Ocean Park,13,9
+Ocean Park,14,6
+Ocean Park,15,10
+Ocean Park,16,8
+Ocean Park,17,5
+Ocean Park,18,8
+Ocean Park,19,11
+Ocean Park,20,3
+Ocean Park,21,4
+Ocean Park,22,13
+Ocean Park,23,12
+Ocean Park,24,10
+Ocean Park,25,12
+Ocean Park,26,9
+Ocean Park,27,12
+Ocean Park,28,19
+Ocean Park,29,12
+Ocean Park,30,16
+Ocean Park,31,17
+Ocean Park,32,16
+Ocean Park,33,15
+Ocean Park,34,13
+Ocean Park,35,20
+Ocean Park,36,15
+Ocean Park,37,11
+Ocean Park,38,24
+Ocean Park,39,16
+Ocean Park,40,15
+Ocean Park,41,18
+Ocean Park,42,14
+Ocean Park,43,11
+Ocean Park,44,15
+Ocean Park,45,22
+Ocean Park,46,11
+Ocean Park,47,15
+Ocean Park,48,15
+Ocean Park,49,14
+Ocean Park,50,17
+Ocean Park,51,18
+Ocean Park,52,18
+Ocean Park,53,17
+Ocean Park,54,25
+Ocean Park,55,19
+Ocean Park,56,22
+Ocean Park,57,19
+Ocean Park,58,34
+Ocean Park,59,31
+Ocean Park,60,38
+Ocean Park,61,42
+Ocean Park,62,38
+Ocean Park,63,49
+Ocean Park,64,63
+Ocean Park,65,71
+Ocean Park,66,60
+Ocean Park,67,66
+Ocean Park,68,69
+Ocean Park,69,67
+Ocean Park,70,71
+Ocean Park,71,52
+Ocean Park,72,64
+Ocean Park,73,63
+Ocean Park,74,61
+Ocean Park,75,45
+Ocean Park,76,35
+Ocean Park,77,35
+Ocean Park,78,28
+Ocean Park,79,25
+Ocean Park,80,28
+Ocean Park,81,15
+Ocean Park,82,12
+Ocean Park,83,11
+Ocean Park,84,15
+Ocean Park,85,10
+Ocean Park,86,5
+Ocean Park,87,4
+Ocean Park,88,1
+Ocean Park,89,1
+Ocean Park,90,6
+Ocean Park,91,1
+Ocean Park,92,2
+Ocean Park,94,1
+Ocean Park,95,1
+Ocean Park,96,1
+Ocean Park,97,1
+Ocean Park,98,1
+Packwood,3,1
+Packwood,6,2
+Packwood,7,3
+Packwood,8,1
+Packwood,9,4
+Packwood,10,4
+Packwood,11,2
+Packwood,12,2
+Packwood,13,3
+Packwood,14,1
+Packwood,15,1
+Packwood,16,2
+Packwood,17,12
+Packwood,18,2
+Packwood,19,10
+Packwood,20,45
+Packwood,21,82
+Packwood,22,69
+Packwood,23,62
+Packwood,24,78
+Packwood,25,70
+Packwood,26,76
+Packwood,27,81
+Packwood,28,67
+Packwood,29,65
+Packwood,30,70
+Packwood,31,71
+Packwood,32,27
+Packwood,33,19
+Packwood,34,16
+Packwood,35,24
+Packwood,36,13
+Packwood,37,17
+Packwood,38,19
+Packwood,39,27
+Packwood,40,20
+Packwood,41,22
+Packwood,42,16
+Packwood,43,22
+Packwood,44,9
+Packwood,45,13
+Packwood,46,3
+Packwood,47,13
+Packwood,48,13
+Packwood,49,15
+Packwood,50,11
+Packwood,51,13
+Packwood,52,15
+Packwood,53,10
+Packwood,54,11
+Packwood,55,17
+Packwood,56,13
+Packwood,57,18
+Packwood,58,22
+Packwood,59,13
+Packwood,60,10
+Packwood,61,11
+Packwood,62,9
+Packwood,63,15
+Packwood,64,13
+Packwood,65,9
+Packwood,66,7
+Packwood,67,19
+Packwood,68,9
+Packwood,69,7
+Packwood,70,15
+Packwood,71,9
+Packwood,72,9
+Packwood,73,8
+Packwood,74,5
+Packwood,75,12
+Packwood,76,6
+Packwood,77,5
+Packwood,78,6
+Packwood,79,3
+Packwood,80,4
+Packwood,81,2
+Packwood,82,2
+Packwood,83,5
+Packwood,84,5
+Packwood,86,2
+Packwood,120,1
+Raymond,2,1
+Raymond,3,19
+Raymond,4,15
+Raymond,5,24
+Raymond,6,23
+Raymond,7,16
+Raymond,8,14
+Raymond,9,17
+Raymond,10,16
+Raymond,11,29
+Raymond,12,22
+Raymond,13,17
+Raymond,14,13
+Raymond,15,10
+Raymond,16,14
+Raymond,17,15
+Raymond,18,10
+Raymond,19,7
+Raymond,20,17
+Raymond,21,12
+Raymond,22,7
+Raymond,23,9
+Raymond,24,7
+Raymond,25,12
+Raymond,26,12
+Raymond,27,13
+Raymond,28,10
+Raymond,29,14
+Raymond,30,14
+Raymond,31,20
+Raymond,32,16
+Raymond,33,13
+Raymond,34,14
+Raymond,35,15
+Raymond,36,8
+Raymond,37,21
+Raymond,38,8
+Raymond,39,20
+Raymond,40,16
+Raymond,41,9
+Raymond,42,10
+Raymond,43,12
+Raymond,44,11
+Raymond,45,3
+Raymond,46,11
+Raymond,47,6
+Raymond,48,4
+Raymond,49,6
+Raymond,50,5
+Raymond,51,9
+Raymond,52,11
+Raymond,53,11
+Raymond,54,9
+Raymond,55,13
+Raymond,56,10
+Raymond,57,6
+Raymond,58,9
+Raymond,59,12
+Raymond,60,10
+Raymond,61,14
+Raymond,62,11
+Raymond,63,8
+Raymond,64,14
+Raymond,65,13
+Raymond,66,15
+Raymond,67,20
+Raymond,68,22
+Raymond,69,20
+Raymond,70,13
+Raymond,71,9
+Raymond,72,7
+Raymond,73,22
+Raymond,74,15
+Raymond,75,8
+Raymond,76,12
+Raymond,77,9
+Raymond,78,5
+Raymond,79,7
+Raymond,80,9
+Raymond,81,2
+Raymond,82,3
+Raymond,83,5
+Raymond,84,3
+Raymond,85,4
+Raymond,86,1
+Raymond,87,3
+Raymond,88,1
+Raymond,89,1
+Raymond,91,1
+Rochester Kiosk,9,2
+Rochester Kiosk,11,1
+Rochester Kiosk,15,1
+Rochester Kiosk,17,2
+Rochester Kiosk,20,1
+Rochester Kiosk,21,2
+Rochester Kiosk,22,1
+Rochester Kiosk,23,1
+Rochester Kiosk,24,1
+Rochester Kiosk,25,1
+Rochester Kiosk,26,2
+Rochester Kiosk,27,1
+Rochester Kiosk,28,2
+Rochester Kiosk,29,1
+Rochester Kiosk,30,1
+Rochester Kiosk,31,2
+Rochester Kiosk,32,3
+Rochester Kiosk,33,5
+Rochester Kiosk,34,1
+Rochester Kiosk,35,1
+Rochester Kiosk,36,1
+Rochester Kiosk,38,2
+Rochester Kiosk,39,1
+Rochester Kiosk,41,1
+Rochester Kiosk,42,2
+Rochester Kiosk,43,3
+Rochester Kiosk,49,2
+Rochester Kiosk,51,2
+Rochester Kiosk,52,1
+Rochester Kiosk,53,3
+Rochester Kiosk,54,1
+Rochester Kiosk,55,1
+Rochester Kiosk,56,3
+Rochester Kiosk,59,1
+Rochester Kiosk,60,1
+Rochester Kiosk,61,3
+Rochester Kiosk,63,2
+Rochester Kiosk,65,2
+Rochester Kiosk,66,3
+Rochester Kiosk,67,1
+Rochester Kiosk,68,1
+Rochester Kiosk,73,2
+Rochester Kiosk,74,1
+Rochester Kiosk,75,1
+Rochester Kiosk,76,1
+Rochester Kiosk,78,1
+Rochester Kiosk,79,1
+Rochester Kiosk,81,1
+Salkum,2,2
+Salkum,3,2
+Salkum,4,5
+Salkum,5,3
+Salkum,6,6
+Salkum,7,5
+Salkum,8,8
+Salkum,9,3
+Salkum,10,9
+Salkum,11,15
+Salkum,12,15
+Salkum,13,10
+Salkum,14,15
+Salkum,15,7
+Salkum,16,6
+Salkum,17,9
+Salkum,18,12
+Salkum,19,11
+Salkum,20,4
+Salkum,21,6
+Salkum,22,9
+Salkum,23,12
+Salkum,24,8
+Salkum,25,8
+Salkum,26,9
+Salkum,27,8
+Salkum,28,9
+Salkum,29,18
+Salkum,30,18
+Salkum,31,21
+Salkum,32,26
+Salkum,33,21
+Salkum,34,19
+Salkum,35,15
+Salkum,36,21
+Salkum,37,16
+Salkum,38,18
+Salkum,39,17
+Salkum,40,22
+Salkum,41,14
+Salkum,42,18
+Salkum,43,11
+Salkum,44,6
+Salkum,45,10
+Salkum,46,13
+Salkum,47,8
+Salkum,48,9
+Salkum,49,7
+Salkum,50,9
+Salkum,51,8
+Salkum,52,11
+Salkum,53,12
+Salkum,54,14
+Salkum,55,12
+Salkum,56,6
+Salkum,57,11
+Salkum,58,15
+Salkum,59,16
+Salkum,60,19
+Salkum,61,22
+Salkum,62,21
+Salkum,63,18
+Salkum,64,22
+Salkum,65,22
+Salkum,66,18
+Salkum,67,20
+Salkum,68,24
+Salkum,69,21
+Salkum,70,17
+Salkum,71,21
+Salkum,72,19
+Salkum,73,20
+Salkum,74,16
+Salkum,75,18
+Salkum,76,13
+Salkum,77,8
+Salkum,78,4
+Salkum,79,7
+Salkum,80,9
+Salkum,81,8
+Salkum,82,7
+Salkum,83,2
+Salkum,84,3
+Salkum,85,3
+Salkum,86,3
+Salkum,87,5
+Salkum,88,5
+Salkum,89,3
+Salkum,90,1
+Salkum,91,2
+Salkum,92,3
+Salkum,93,1
+South Bend,2,12
+South Bend,3,30
+South Bend,4,19
+South Bend,5,15
+South Bend,6,10
+South Bend,7,8
+South Bend,8,9
+South Bend,9,11
+South Bend,10,13
+South Bend,11,5
+South Bend,12,18
+South Bend,13,17
+South Bend,14,18
+South Bend,15,8
+South Bend,16,17
+South Bend,17,8
+South Bend,18,2
+South Bend,19,4
+South Bend,20,4
+South Bend,21,2
+South Bend,22,5
+South Bend,23,4
+South Bend,24,5
+South Bend,25,3
+South Bend,26,1
+South Bend,27,7
+South Bend,28,5
+South Bend,29,2
+South Bend,30,1
+South Bend,31,6
+South Bend,32,6
+South Bend,33,3
+South Bend,34,7
+South Bend,35,1
+South Bend,36,8
+South Bend,37,6
+South Bend,38,4
+South Bend,39,5
+South Bend,40,3
+South Bend,41,5
+South Bend,42,2
+South Bend,43,4
+South Bend,44,6
+South Bend,45,2
+South Bend,46,2
+South Bend,47,3
+South Bend,48,4
+South Bend,49,6
+South Bend,50,2
+South Bend,51,5
+South Bend,52,6
+South Bend,53,4
+South Bend,54,3
+South Bend,55,4
+South Bend,56,5
+South Bend,57,5
+South Bend,58,8
+South Bend,59,5
+South Bend,60,7
+South Bend,61,4
+South Bend,62,6
+South Bend,63,11
+South Bend,64,5
+South Bend,65,8
+South Bend,66,7
+South Bend,67,3
+South Bend,68,12
+South Bend,69,7
+South Bend,70,8
+South Bend,71,8
+South Bend,72,10
+South Bend,73,8
+South Bend,74,4
+South Bend,75,9
+South Bend,76,7
+South Bend,77,5
+South Bend,78,2
+South Bend,79,6
+South Bend,80,2
+South Bend,81,2
+South Bend,82,4
+South Bend,83,3
+South Bend,85,1
+South Bend,86,1
+South Bend,89,1
+South Bend,91,1
+Service Center,8,1
+Service Center,11,1
+Service Center,13,2
+Service Center,17,1
+Service Center,19,1
+Service Center,20,1
+Service Center,21,6
+Service Center,22,3
+Service Center,23,4
+Service Center,24,3
+Service Center,25,4
+Service Center,28,1
+Service Center,30,1
+Service Center,31,1
+Service Center,34,3
+Service Center,35,1
+Service Center,36,3
+Service Center,37,3
+Service Center,38,2
+Service Center,39,2
+Service Center,41,2
+Service Center,42,1
+Service Center,43,1
+Service Center,44,2
+Service Center,45,4
+Service Center,46,2
+Service Center,47,2
+Service Center,48,3
+Service Center,49,4
+Service Center,50,3
+Service Center,51,1
+Service Center,52,4
+Service Center,53,4
+Service Center,54,2
+Service Center,55,3
+Service Center,56,1
+Service Center,57,1
+Service Center,58,1
+Service Center,59,3
+Service Center,60,2
+Service Center,61,5
+Service Center,62,3
+Service Center,63,8
+Service Center,64,5
+Service Center,65,5
+Service Center,66,11
+Service Center,67,4
+Service Center,68,6
+Service Center,69,6
+Service Center,70,6
+Service Center,71,5
+Service Center,72,4
+Service Center,73,6
+Service Center,74,6
+Service Center,75,5
+Service Center,76,1
+Service Center,77,3
+Service Center,78,8
+Service Center,79,4
+Service Center,80,2
+Service Center,81,2
+Service Center,83,3
+Service Center,84,4
+Service Center,85,1
+Service Center,86,1
+Service Center,87,2
+Service Center,88,1
+Service Center,89,4
+Service Center,90,2
+Service Center,91,1
+Service Center,92,3
+Service Center,93,5
+Service Center,94,2
+Service Center,95,2
+Service Center,96,2
+Service Center,97,2
+Shelton,2,9
+Shelton,3,49
+Shelton,4,67
+Shelton,5,169
+Shelton,6,138
+Shelton,7,63
+Shelton,8,63
+Shelton,9,67
+Shelton,10,70
+Shelton,11,82
+Shelton,12,97
+Shelton,13,92
+Shelton,14,175
+Shelton,15,199
+Shelton,16,127
+Shelton,17,113
+Shelton,18,91
+Shelton,19,66
+Shelton,20,54
+Shelton,21,57
+Shelton,22,47
+Shelton,23,47
+Shelton,24,52
+Shelton,25,51
+Shelton,26,61
+Shelton,27,49
+Shelton,28,75
+Shelton,29,66
+Shelton,30,78
+Shelton,31,88
+Shelton,32,70
+Shelton,33,66
+Shelton,34,85
+Shelton,35,74
+Shelton,36,85
+Shelton,37,75
+Shelton,38,60
+Shelton,39,73
+Shelton,40,75
+Shelton,41,87
+Shelton,42,71
+Shelton,43,65
+Shelton,44,76
+Shelton,45,57
+Shelton,46,62
+Shelton,47,54
+Shelton,48,62
+Shelton,49,60
+Shelton,50,67
+Shelton,51,56
+Shelton,52,72
+Shelton,53,59
+Shelton,54,52
+Shelton,55,59
+Shelton,56,65
+Shelton,57,86
+Shelton,58,73
+Shelton,59,66
+Shelton,60,100
+Shelton,61,104
+Shelton,62,90
+Shelton,63,102
+Shelton,64,91
+Shelton,65,100
+Shelton,66,120
+Shelton,67,96
+Shelton,68,111
+Shelton,69,106
+Shelton,70,89
+Shelton,71,117
+Shelton,72,83
+Shelton,73,117
+Shelton,74,93
+Shelton,75,79
+Shelton,76,58
+Shelton,77,64
+Shelton,78,57
+Shelton,79,58
+Shelton,80,35
+Shelton,81,38
+Shelton,82,23
+Shelton,83,33
+Shelton,84,26
+Shelton,85,19
+Shelton,86,13
+Shelton,87,10
+Shelton,88,15
+Shelton,89,9
+Shelton,90,4
+Shelton,91,3
+Shelton,92,6
+Shelton,93,1
+Shelton,94,4
+Shelton,95,3
+Shelton,97,1
+Shelton,98,4
+Shoalwater Bay Tribe,14,1
+Shoalwater Bay Tribe,19,1
+Shoalwater Bay Tribe,20,1
+Shoalwater Bay Tribe,24,2
+Shoalwater Bay Tribe,25,2
+Shoalwater Bay Tribe,29,2
+Shoalwater Bay Tribe,31,1
+Shoalwater Bay Tribe,34,1
+Shoalwater Bay Tribe,37,1
+Shoalwater Bay Tribe,41,2
+Shoalwater Bay Tribe,48,1
+Shoalwater Bay Tribe,49,1
+Shoalwater Bay Tribe,60,2
+Shoalwater Bay Tribe,61,3
+Shoalwater Bay Tribe,63,1
+Shoalwater Bay Tribe,68,1
+Shoalwater Bay Tribe,69,1
+Shoalwater Bay Tribe,70,1
+Shoalwater Bay Tribe,73,1
+Shoalwater Bay Tribe,74,1
+Shoalwater Bay Tribe,75,2
+Shoalwater Bay Tribe,76,1
+Shoalwater Bay Tribe,84,1
+Shoalwater Bay Tribe,85,1
+Tenino,3,4
+Tenino,4,9
+Tenino,5,57
+Tenino,6,48
+Tenino,7,34
+Tenino,8,35
+Tenino,9,26
+Tenino,10,30
+Tenino,11,80
+Tenino,12,79
+Tenino,13,59
+Tenino,14,39
+Tenino,15,32
+Tenino,16,30
+Tenino,17,16
+Tenino,18,19
+Tenino,19,7
+Tenino,20,7
+Tenino,21,9
+Tenino,22,7
+Tenino,23,16
+Tenino,24,9
+Tenino,25,8
+Tenino,26,7
+Tenino,27,13
+Tenino,28,13
+Tenino,29,12
+Tenino,30,17
+Tenino,31,17
+Tenino,32,13
+Tenino,33,15
+Tenino,34,20
+Tenino,35,18
+Tenino,36,15
+Tenino,37,19
+Tenino,38,18
+Tenino,39,17
+Tenino,40,14
+Tenino,41,12
+Tenino,42,11
+Tenino,43,11
+Tenino,44,12
+Tenino,45,14
+Tenino,46,13
+Tenino,47,7
+Tenino,48,12
+Tenino,49,12
+Tenino,50,9
+Tenino,51,12
+Tenino,52,15
+Tenino,53,13
+Tenino,54,8
+Tenino,55,10
+Tenino,56,10
+Tenino,57,7
+Tenino,58,13
+Tenino,59,11
+Tenino,60,7
+Tenino,61,11
+Tenino,62,9
+Tenino,63,16
+Tenino,64,14
+Tenino,65,15
+Tenino,66,10
+Tenino,67,15
+Tenino,68,11
+Tenino,69,13
+Tenino,70,17
+Tenino,71,13
+Tenino,72,11
+Tenino,73,9
+Tenino,74,14
+Tenino,75,7
+Tenino,76,2
+Tenino,77,7
+Tenino,78,7
+Tenino,79,8
+Tenino,80,3
+Tenino,81,7
+Tenino,82,3
+Tenino,83,1
+Tenino,84,1
+Tenino,85,1
+Tenino,86,1
+Tenino,87,1
+Tenino,89,1
+Tenino,90,1
+Tenino,92,1
+Tenino,96,1
+Toledo Kiosk,9,1
+Toledo Kiosk,11,1
+Toledo Kiosk,13,1
+Toledo Kiosk,15,1
+Toledo Kiosk,16,1
+Toledo Kiosk,17,3
+Toledo Kiosk,18,2
+Toledo Kiosk,20,1
+Toledo Kiosk,21,2
+Toledo Kiosk,22,3
+Toledo Kiosk,25,1
+Toledo Kiosk,26,2
+Toledo Kiosk,27,2
+Toledo Kiosk,28,1
+Toledo Kiosk,29,3
+Toledo Kiosk,30,2
+Toledo Kiosk,32,1
+Toledo Kiosk,33,2
+Toledo Kiosk,34,1
+Toledo Kiosk,35,1
+Toledo Kiosk,36,2
+Toledo Kiosk,38,3
+Toledo Kiosk,39,1
+Toledo Kiosk,40,2
+Toledo Kiosk,41,4
+Toledo Kiosk,43,2
+Toledo Kiosk,44,2
+Toledo Kiosk,46,3
+Toledo Kiosk,47,2
+Toledo Kiosk,48,2
+Toledo Kiosk,51,2
+Toledo Kiosk,52,1
+Toledo Kiosk,53,1
+Toledo Kiosk,55,1
+Toledo Kiosk,56,2
+Toledo Kiosk,57,2
+Toledo Kiosk,58,1
+Toledo Kiosk,59,3
+Toledo Kiosk,60,4
+Toledo Kiosk,61,1
+Toledo Kiosk,62,5
+Toledo Kiosk,64,1
+Toledo Kiosk,65,1
+Toledo Kiosk,66,2
+Toledo Kiosk,67,1
+Toledo Kiosk,68,3
+Toledo Kiosk,69,2
+Toledo Kiosk,71,1
+Toledo Kiosk,72,3
+Toledo Kiosk,73,2
+Toledo Kiosk,75,2
+Toledo Kiosk,76,1
+Toledo Kiosk,77,1
+Toledo Kiosk,79,2
+Toledo Kiosk,87,1
+Toledo Kiosk,91,1
+Tumwater,2,12
+Tumwater,3,46
+Tumwater,4,62
+Tumwater,5,293
+Tumwater,6,317
+Tumwater,7,163
+Tumwater,8,170
+Tumwater,9,170
+Tumwater,10,221
+Tumwater,11,228
+Tumwater,12,224
+Tumwater,13,253
+Tumwater,14,272
+Tumwater,15,296
+Tumwater,16,390
+Tumwater,17,385
+Tumwater,18,285
+Tumwater,19,134
+Tumwater,20,93
+Tumwater,21,81
+Tumwater,22,68
+Tumwater,23,90
+Tumwater,24,79
+Tumwater,25,84
+Tumwater,26,100
+Tumwater,27,97
+Tumwater,28,114
+Tumwater,29,125
+Tumwater,30,132
+Tumwater,31,143
+Tumwater,32,145
+Tumwater,33,170
+Tumwater,34,177
+Tumwater,35,165
+Tumwater,36,176
+Tumwater,37,184
+Tumwater,38,188
+Tumwater,39,180
+Tumwater,40,184
+Tumwater,41,156
+Tumwater,42,185
+Tumwater,43,163
+Tumwater,44,160
+Tumwater,45,168
+Tumwater,46,162
+Tumwater,47,128
+Tumwater,48,133
+Tumwater,49,127
+Tumwater,50,134
+Tumwater,51,160
+Tumwater,52,123
+Tumwater,53,129
+Tumwater,54,123
+Tumwater,55,102
+Tumwater,56,102
+Tumwater,57,121
+Tumwater,58,120
+Tumwater,59,135
+Tumwater,60,107
+Tumwater,61,130
+Tumwater,62,134
+Tumwater,63,144
+Tumwater,64,133
+Tumwater,65,119
+Tumwater,66,152
+Tumwater,67,137
+Tumwater,68,159
+Tumwater,69,154
+Tumwater,70,146
+Tumwater,71,157
+Tumwater,72,143
+Tumwater,73,117
+Tumwater,74,112
+Tumwater,75,97
+Tumwater,76,71
+Tumwater,77,72
+Tumwater,78,73
+Tumwater,79,55
+Tumwater,80,43
+Tumwater,81,32
+Tumwater,82,45
+Tumwater,83,24
+Tumwater,84,21
+Tumwater,85,22
+Tumwater,86,23
+Tumwater,87,10
+Tumwater,88,9
+Tumwater,89,6
+Tumwater,90,7
+Tumwater,91,6
+Tumwater,92,2
+Tumwater,93,2
+Tumwater,94,4
+Tumwater,95,2
+Tumwater,96,1
+Tumwater,97,1
+Tumwater,100,1
+Tumwater,107,1
+Tumwater,108,1
+Tumwater,120,1
+Westport,3,1
+Westport,4,1
+Westport,6,3
+Westport,7,5
+Westport,8,4
+Westport,9,3
+Westport,10,6
+Westport,11,6
+Westport,12,6
+Westport,13,7
+Westport,14,5
+Westport,15,7
+Westport,16,11
+Westport,17,7
+Westport,18,5
+Westport,19,12
+Westport,20,5
+Westport,21,5
+Westport,22,6
+Westport,23,10
+Westport,24,11
+Westport,25,7
+Westport,26,9
+Westport,27,15
+Westport,28,8
+Westport,29,14
+Westport,30,11
+Westport,31,9
+Westport,32,10
+Westport,33,14
+Westport,34,10
+Westport,35,15
+Westport,36,9
+Westport,37,8
+Westport,38,15
+Westport,39,18
+Westport,40,11
+Westport,41,15
+Westport,42,13
+Westport,43,9
+Westport,44,14
+Westport,45,11
+Westport,46,12
+Westport,47,12
+Westport,48,7
+Westport,49,19
+Westport,50,18
+Westport,51,19
+Westport,52,10
+Westport,53,13
+Westport,54,24
+Westport,55,16
+Westport,56,19
+Westport,57,9
+Westport,58,17
+Westport,59,19
+Westport,60,17
+Westport,61,27
+Westport,62,17
+Westport,63,28
+Westport,64,24
+Westport,65,19
+Westport,66,14
+Westport,67,25
+Westport,68,28
+Westport,69,23
+Westport,70,26
+Westport,71,21
+Westport,72,22
+Westport,73,21
+Westport,74,17
+Westport,75,12
+Westport,76,11
+Westport,77,9
+Westport,78,11
+Westport,79,12
+Westport,80,5
+Westport,81,6
+Westport,82,4
+Westport,83,4
+Westport,84,4
+Westport,86,3
+Westport,87,3
+Westport,88,1
+Westport,89,4
+Westport,90,4
+Westport,94,1
+Westport,106,1
+Winlock,3,6
+Winlock,4,28
+Winlock,5,44
+Winlock,6,29
+Winlock,7,19
+Winlock,8,21
+Winlock,9,15
+Winlock,10,24
+Winlock,11,14
+Winlock,12,19
+Winlock,13,19
+Winlock,14,28
+Winlock,15,18
+Winlock,16,16
+Winlock,17,19
+Winlock,18,12
+Winlock,19,9
+Winlock,20,10
+Winlock,21,10
+Winlock,22,9
+Winlock,23,17
+Winlock,24,12
+Winlock,25,16
+Winlock,26,12
+Winlock,27,7
+Winlock,28,13
+Winlock,29,7
+Winlock,30,9
+Winlock,31,11
+Winlock,32,14
+Winlock,33,16
+Winlock,34,7
+Winlock,35,17
+Winlock,36,15
+Winlock,37,11
+Winlock,38,17
+Winlock,39,17
+Winlock,40,14
+Winlock,41,20
+Winlock,42,16
+Winlock,43,14
+Winlock,44,12
+Winlock,45,14
+Winlock,46,12
+Winlock,47,18
+Winlock,48,7
+Winlock,49,13
+Winlock,50,9
+Winlock,51,11
+Winlock,52,11
+Winlock,53,7
+Winlock,54,7
+Winlock,55,9
+Winlock,56,15
+Winlock,57,17
+Winlock,58,17
+Winlock,59,10
+Winlock,60,19
+Winlock,61,10
+Winlock,62,34
+Winlock,63,14
+Winlock,64,9
+Winlock,65,19
+Winlock,66,20
+Winlock,67,13
+Winlock,68,13
+Winlock,69,8
+Winlock,70,17
+Winlock,71,16
+Winlock,72,17
+Winlock,73,18
+Winlock,74,21
+Winlock,75,23
+Winlock,76,7
+Winlock,77,12
+Winlock,78,11
+Winlock,79,19
+Winlock,80,5
+Winlock,81,6
+Winlock,82,4
+Winlock,83,3
+Winlock,84,6
+Winlock,85,6
+Winlock,86,1
+Winlock,87,3
+Winlock,88,2
+Winlock,89,1
+Winlock,90,1
+Winlock,91,4
+Winlock,92,1
+Winlock,95,1
+Winlock,96,1
+Winlock,100,1
+West Olympia,3,2
+West Olympia,4,1
+West Olympia,5,5
+West Olympia,6,6
+West Olympia,7,13
+West Olympia,8,2
+West Olympia,9,5
+West Olympia,10,10
+West Olympia,11,5
+West Olympia,12,5
+West Olympia,13,4
+West Olympia,14,8
+West Olympia,15,4
+West Olympia,16,6
+West Olympia,17,8
+West Olympia,18,17
+West Olympia,19,8
+West Olympia,20,7
+West Olympia,21,13
+West Olympia,22,11
+West Olympia,23,17
+West Olympia,24,7
+West Olympia,25,17
+West Olympia,26,14
+West Olympia,27,20
+West Olympia,28,16
+West Olympia,29,12
+West Olympia,30,11
+West Olympia,31,12
+West Olympia,32,13
+West Olympia,33,13
+West Olympia,34,10
+West Olympia,35,6
+West Olympia,36,13
+West Olympia,37,13
+West Olympia,38,14
+West Olympia,39,10
+West Olympia,40,14
+West Olympia,41,14
+West Olympia,42,7
+West Olympia,43,11
+West Olympia,44,7
+West Olympia,45,1
+West Olympia,46,5
+West Olympia,47,5
+West Olympia,48,6
+West Olympia,49,6
+West Olympia,50,4
+West Olympia,51,11
+West Olympia,52,3
+West Olympia,53,9
+West Olympia,54,7
+West Olympia,55,3
+West Olympia,56,7
+West Olympia,57,9
+West Olympia,58,7
+West Olympia,59,8
+West Olympia,60,9
+West Olympia,61,7
+West Olympia,62,10
+West Olympia,63,8
+West Olympia,64,8
+West Olympia,65,9
+West Olympia,66,8
+West Olympia,67,13
+West Olympia,68,14
+West Olympia,69,8
+West Olympia,70,7
+West Olympia,71,6
+West Olympia,72,5
+West Olympia,73,9
+West Olympia,74,8
+West Olympia,75,7
+West Olympia,76,8
+West Olympia,77,9
+West Olympia,78,9
+West Olympia,79,10
+West Olympia,80,6
+West Olympia,81,5
+West Olympia,82,4
+West Olympia,83,3
+West Olympia,84,4
+West Olympia,85,4
+West Olympia,86,3
+West Olympia,87,5
+West Olympia,88,3
+West Olympia,89,1
+West Olympia,90,2
+West Olympia,91,1
+West Olympia,92,1
+Yelm,2,9
+Yelm,3,40
+Yelm,4,54
+Yelm,5,306
+Yelm,6,321
+Yelm,7,150
+Yelm,8,132
+Yelm,9,141
+Yelm,10,122
+Yelm,11,132
+Yelm,12,129
+Yelm,13,140
+Yelm,14,159
+Yelm,15,144
+Yelm,16,134
+Yelm,17,109
+Yelm,18,69
+Yelm,19,54
+Yelm,20,48
+Yelm,21,41
+Yelm,22,45
+Yelm,23,35
+Yelm,24,55
+Yelm,25,58
+Yelm,26,49
+Yelm,27,64
+Yelm,28,59
+Yelm,29,82
+Yelm,30,83
+Yelm,31,94
+Yelm,32,94
+Yelm,33,73
+Yelm,34,75
+Yelm,35,94
+Yelm,36,94
+Yelm,37,104
+Yelm,38,80
+Yelm,39,82
+Yelm,40,68
+Yelm,41,86
+Yelm,42,55
+Yelm,43,53
+Yelm,44,62
+Yelm,45,50
+Yelm,46,59
+Yelm,47,56
+Yelm,48,49
+Yelm,49,52
+Yelm,50,53
+Yelm,51,55
+Yelm,52,40
+Yelm,53,42
+Yelm,54,44
+Yelm,55,49
+Yelm,56,41
+Yelm,57,48
+Yelm,58,44
+Yelm,59,66
+Yelm,60,49
+Yelm,61,48
+Yelm,62,54
+Yelm,63,48
+Yelm,64,49
+Yelm,65,55
+Yelm,66,53
+Yelm,67,49
+Yelm,68,64
+Yelm,69,72
+Yelm,70,41
+Yelm,71,57
+Yelm,72,58
+Yelm,73,39
+Yelm,74,44
+Yelm,75,29
+Yelm,76,29
+Yelm,77,29
+Yelm,78,27
+Yelm,79,20
+Yelm,80,17
+Yelm,81,18
+Yelm,82,12
+Yelm,83,9
+Yelm,84,9
+Yelm,85,3
+Yelm,86,7
+Yelm,87,7
+Yelm,88,4
+Yelm,89,4
+Yelm,90,4
+Yelm,91,5
+Yelm,92,3
+Yelm,94,1
+Yelm,96,1

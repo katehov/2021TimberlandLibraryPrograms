@@ -1,6 +1,10 @@
-# 2021TimberlandLibraryPrograms
+# 2021 Timberland Library Programs
 These datasets combine the Timberland Regional Library System's 2021 data on programs and cardholder ages. The intended audience is local and state policymakers, as well as library staff. The datasets were curated for a class on Data Curation at the University of Washington in Winter 2022. 
 
+# Normalization
+The raw Active Cardholders by Age dataset was organized by branch and included a row for each individual age (year). This resulted in a massive data file with at least a hundred rows per branch and was a bit unwieldy. Since the focus of this curation was to combine this data with the Programs data, the Age Groups from the Programs dataset (Babies and Toddlers 0-2, Preschool 3-6, School Age 7-11, etc.) were used to group the Active Cardholder dataset into a more useful and manageable form.
+In the raw Program data, children and teens were separated into a few different groups based on assumed reading ability and interests. However, “Adults” were classified as any patron over 18. When normalizing the Active Cardholder data, I chose to break that population out into smaller subgroups of adults because this data is meant to help with funding and planning future programs. A 20 year old will likely be interested in different programs than a 48 year old or a 91 year old. However, in the Normalized Programs dataset, the Active Cardholders number is all of those adult (18+) groups added together, to keep up the integrity of the original data, which did not account for different adult age groups when planning events or counting attendance.  
+Finally, in the Normalized Programs dataset, a column on the far right was added, labeled ActiveCardholders. This integer is the sum of the active cardholders in the program’s desired age group(s) at the library branch where the program took place. The purpose of this was to give context to the Attendance number recorded in the Program data.
 
 # Naming Convention
 Dataset file naming should be as follows:  datasettype_yearDescription
@@ -25,6 +29,7 @@ And where description is the short content description of the dataset. Descripti
 | Number of Active Cardholders    | Cardholders  | Integer | The number of active cardholders at that branch in that age group during 2021 when the original dataset was created.   |
 
 # Metadata
+Metadata Schema used: Project Open Data 
 | Attribute     |  Value        |
 | ------------- | ------------- |
 | accessLevel   | Public |
